@@ -1,0 +1,743 @@
+/**** font-family: 'Roboto Slab', serif;
+font-family: 'Open Sans', sans-serif; ***/
+
+*{
+	padding: 0;
+	margin: 0;
+}
+.container{
+	max-width: 1365px;
+	width: 100%;
+	margin: 0 auto;
+	padding: 0 20px 0 20px ;
+	box-sizing: border-box;
+}
+
+			/******* topber section start *****/
+				
+.topber-section{
+	background-color: #eeeeee;
+	padding: 10px 0 10px 0;
+}
+.topber-section .container .topber-prents{
+	display: flex;
+}
+.topber-section .container .topber-prents .topber-one{
+	width: 33.33%;
+}
+.topber-section .container .topber-prents .topber-one p{
+	font-size: 16px;
+	line-height: 21px;
+	font-family: 'Roboto Slab', serif;
+	font-weight: 400;
+	color:  #000000;
+}
+.topber-section .container .topber-prents .topber-two{
+	width: 33.33%;
+}
+.topber-section .container .topber-prents .topber-two .topber-content{
+	text-align: center;
+}
+.topber-section .container .topber-prents .topber-two .topber-content p i{
+	padding: 0 5px;
+}
+.topber-section .container .topber-prents .topber-two p{
+	font-size: 16px;
+	line-height: 21px;
+	font-family: 'Roboto Slab', serif;
+	font-weight: 400;
+	color:  #000000;
+}
+.topber-section .container .topber-prents .topber-three{
+	width: 33.33%;
+}
+.topber-section .container .topber-prents .topber-three .icons ul{
+	display: flex;
+	list-style: none;
+	justify-content: end;
+}
+.topber-section .container .topber-prents .topber-three .icons ul li{
+	margin-left: 15px;
+}
+.topber-section .container .topber-prents .topber-three .icons ul li a{
+	color: #000000;
+}
+.topber-section .container .topber-prents .topber-three .icons ul li a:hover{
+	color:red;
+}
+
+			/******** topber section end ******/
+
+			/**** header section start ******/
+
+.header-section{
+	padding: 10px 0;
+}
+.header-section .container .header-prents{
+	display: flex;
+	align-items: center;
+}
+.header-section .container .header-prents .header-one{
+	width: 33.33%;
+}
+.header-section .container .header-prents .header-one .title-name h5{
+	font-size: 24px;
+	line-height: 30px;
+	color: #000000;
+	font-family: 'Roboto Slab', serif;
+	font-weight: 700;
+}
+.header-section .container .header-prents .header-one .title-name p{
+	font-size: 18px;
+	line-height: 21px;
+	color: #000000;
+	font-family:  'Roboto Slab', serif;
+	font-weight: 400;
+}
+.header-section .container .header-prents .header-two{
+	width: 33.33%;
+}
+.header-section .container .header-prents .header-two .logo{
+	text-align: center;
+}
+.header-section .container .header-prents .header-three{
+	width: 33.33%;
+	text-align: right;
+}
+.header-section .container .header-prents .header-three .title-contuc h5 a{
+	font-size: 24px;
+	line-height: 30px;
+	color: red;
+	font-family: 'Roboto Slab', serif;
+	font-weight: 700;
+	text-decoration: none;
+}
+.header-section .container .header-prents .header-three .title-contuc p a{
+	font-size: 18px;
+	line-height: 21px;
+	color: #000000;
+	font-family:  'Roboto Slab', serif;
+	font-weight: 400;
+	text-decoration: none;
+}
+			/**** header section end ******/
+			
+			
+			
+			/**** manuber section start ****/
+			
+.manuber-section {
+	background-color: #000000;
+}
+.manuber-section .container .manuber-prents{
+	margin-top: 11px;
+}
+.manuber-section .container .manuber-prents ul {
+	display: flex;
+	list-style: none;
+	justify-content: center;
+}
+.manuber-section .container .manuber-prents ul li{
+	padding: 25px 30px;
+}
+.manuber-section .container .manuber-prents ul li a {
+	text-decoration: none;
+	font-size: 16px;
+	line-height: 22px;
+	font-family: 'Roboto Slab', serif;
+	color: #ffffff;
+	font-weight: 400;
+}
+.manuber-section .container .manuber-prents ul li:first-child{
+	background-color: red;
+	justify-content: center;
+}
+.manuber-section .container .manuber-prents ul li:hover{
+	background-color: red;
+}
+
+			/**** manuber section end ****/
+			
+			/****** benar one section start *****/
+
+.benar-section{
+	background-image: url("../img/background-img.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	padding: 245px 0;
+}
+.benar-section .container .benar-prents {
+	max-width: 785px;
+	background-color: #303031;
+	margin: 0 auto;
+	text-align: center;
+	padding: 33px;
+	opacity: .8;
+}
+.benar-section .container .benar-prents .benar-title h1{
+	font-size: 42px;
+	line-height: 48px;
+	font-weight: 700;
+	font-family: 'Roboto Slab', serif;
+	color: #ffffff;
+}
+.benar-section .container .benar-prents .benar-title p{
+	font-size: 32px;
+	line-height: 38px;
+	font-weight: 400;
+	font-family: 'Roboto Slab', serif;
+	color: #ffffff;
+	padding-top: 15px;
+}
+
+
+			/****** benar one section end *****/
+			
+			/**** inhouse section start ********/
+		
+
+.inhouse-section{
+	padding: 80px;
+}		
+.inhouse-section .container .inhouse-prents{
+	display: flex;
+	align-items: center;
+}
+.inhouse-section .container .inhouse-prents .inhouse-left {
+	width: 61%;
+} 
+.inhouse-section .container .inhouse-prents .inhouse-left .inhouse-title .inhouse-head h2{
+	font-size: 36px;
+	line-height: 42px;
+	font-weight: 700;
+	font-family: 'Roboto Slab', serif;
+	max-width: 600px;
+	padding-bottom: 55px;
+	position: relative;
+}	
+.inhouse-section .container .inhouse-prents .inhouse-left .inhouse-title .inhouse-head h2::after{
+	content: "";
+	position: absolute;
+	height: 5px;
+	width: 80px;
+	background-color: red;
+	left: 0;
+	bottom: 30px;
+}
+.inhouse-section .container .inhouse-prents .inhouse-left .inhouse-title .inhouse-text{
+	position: relative;
+}
+.inhouse-section .container .inhouse-prents .inhouse-left .inhouse-title .inhouse-text::before{
+	content: "";
+	position: absolute;
+	height: 420px;
+	width: 420px;
+	background: url("../img/logo-2.png");
+	background-repeat: no-repeat;
+	z-index: -1;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%);
+}
+.inhouse-section .container .inhouse-prents .inhouse-left .inhouse-title .inhouse-text p{
+	font-size: 16px;
+	line-height: 22px;
+	font-weight: 400;
+	font-family: 'Open Sans', sans-serif;
+	max-width: 95%;
+	margin-bottom: 30px;
+	display: inline-block;
+}
+.inhouse-section .container .inhouse-prents .inhouse-left .inhouse-title .inhouse-btn a{
+	font-size: 18px;
+	line-height: 24px;
+	font-weight: 400;
+	font-family: 'Roboto Slab', serif;
+	text-decoration: none;
+	padding: 16px 25px;
+	border: 2px solid;
+	border-color: #000000;
+	top: 32px;
+	display: inline-block;
+	color: #000000;
+}
+.inhouse-section .container .inhouse-prents .inhouse-left .inhouse-title .inhouse-btn a:hover{
+	background-color: red;
+	color: #ffffff;
+}
+.inhouse-section .container .inhouse-prents .inhouse-right {
+	width: 39%;
+}
+.inhouse-section .container .inhouse-prents .inhouse-right .inhouse-image img{
+	width: 100%;
+}
+
+				
+				/**** inhouse section end ********/
+				
+				/****** area section start *****/
+
+.area-section{
+	background-color: #f9f9f9;
+	padding: 50px 0;
+}
+.area-section .container .area-header .area-title {
+	text-align: center;
+	margin: 0 auto;
+	padding: 30px 0;
+}		
+.area-section .container .area-header .area-title h3{
+	font-size: 36px;
+	line-height: 42px;
+	font-family: 'Roboto Slab', serif;
+	font-weight: 700;
+	position: relative;
+}
+.area-section .container .area-header .area-title h3::after {
+    content: "";
+    height: 6px;
+    width: 80px;
+    background-color: red;
+    position: absolute;
+    left: 570px;
+    bottom: -25px;
+    align-items: center;
+}
+.area-section .container .area-header .area-title p{
+	font-size: 16px;
+	line-height: 22px;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 400;
+	margin: 0 auto;
+	max-width: 680px;
+	padding-top: 50px;
+}
+
+.area-section .container .area-prents .area-one, 
+.area-section .container .area-prents .area-two, 
+.area-section .container .area-prents .area-three {
+    width: 32%;
+    background-color: #ffffff;
+    padding: 30px;
+    text-align: center;
+}
+.area-section .container .area-prents .area-one:hover,
+.area-section .container .area-prents .area-two:hover,
+.area-section .container .area-prents .area-three:hover{
+	transform: scale(1.05);
+	transition: 3s;
+}
+.area-section .container .area-prents .area-one .area-icon,
+.area-section .container .area-prents .area-two .area-icon,
+.area-section .container .area-prents .area-three .area-icon {
+	height: 90px;
+	width: 90px;
+	border: 2px solid;
+	border-color: red;
+	border-radius: 50%;
+	align-items: center;
+	display: flex;
+	justify-content: center;
+	margin: 0 auto;
+}
+.area-section .container .area-prents .area-one .area-top-title h3,
+.area-section .container .area-prents .area-two .area-top-title h3,
+.area-section .container .area-prents .area-three .area-top-title h3 {
+	font-size: 24px;
+	line-height: 30px;
+	font-family: 'Roboto Slab', serif;
+	font-weight: 700;
+}
+.area-section .container .area-prents .area-one .area-paragraph p,
+.area-section .container .area-prents .area-two .area-paragraph p,
+.area-section .container .area-prents .area-three .area-paragraph p {
+	font-size: 16px;
+	line-height: 22px;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 400;
+	margin-top: 10px;
+}
+.area-section .container .area-prents .area-one .area-btn a,
+.area-section .container .area-prents .area-two .area-btn a,
+.area-section .container .area-prents .area-three .area-btn a {
+	font-size: 16px;
+	line-height: 22px;
+	font-family: 'Roboto Slab', serif;
+	font-weight: 400;
+	text-decoration: none;
+	padding: 14px 20px;
+	border: 2px solid;
+	border-color: #000000;
+	margin-top: 30px;
+	display: inline-block;
+	color: #000000;
+}
+.area-section .container .area-prents .area-one .area-btn a:hover,
+.area-section .container .area-prents .area-two .area-btn a:hover,
+.area-section .container .area-prents .area-three .area-btn a:hover {
+	background-color: red;
+	color: #ffffff;
+}
+.area-section .container .area-prents {
+    display: flex;
+    justify-content: center;
+    column-gap: 45px;
+    margin-top: 45px;
+}
+
+
+				/****** area section end *****/
+				
+				/******* explain section start *******/
+				
+				
+.explain-section .container .explain-header {
+	text-align: center;
+	padding: 50px 0;
+}
+.explain-section .container .explain-prents {
+	display: flex;
+	column-gap: 2%;
+	padding-bottom: 70px;
+}
+.explain-section .container .explain-prents .explain-one,
+.explain-section .container .explain-prents .explain-two,
+.explain-section .container .explain-prents .explain-three,
+.explain-section .container .explain-prents .explain-four {
+	width: 23.5%;
+}
+.explain-section .container .explain-prents .explain-one video,
+.explain-section .container .explain-prents .explain-two video,
+.explain-section .container .explain-prents .explain-three video,
+.explain-section .container .explain-prents .explain-four video{
+	width: 100%;
+	object-fit: cover;
+	height: 270px;
+}
+.explain-section .container .explain-header .explain-title h1 {
+	font-size: 36px;
+	line-height: 42px;
+	font-family: 'Roboto Slab', serif;
+	font-weight: 700;
+	position: relative;
+}
+.explain-section .container .explain-header .explain-title h1::before {
+    content: "";
+    height: 6px;
+    width: 80px;
+    background-color: red;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%);
+    bottom: -60%;
+}
+.explain-section .container .explain-header .explain-paragraph p{
+	font-size: 16px;
+	line-height: 22px;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 400;
+	max-width: 680px;
+	justify-content: center;
+	display: flex;
+	margin: 0 auto;
+	padding-top: 50px;
+}
+
+
+
+						/******* explain section end *******/
+						
+						
+						/**** benar two section start *******/
+						
+
+.benar-teo-section{
+	background-image: url(../img/banar2-1.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	position: relative;
+	z-index: 1;
+}
+.benar-teo-section::before{
+	content:"";
+	position: absolute;
+	height:100%;
+	width: 100%;
+	background-color: #000000;
+	opacity: 0.6;
+	z-index: -1;
+	top: 0;
+	left: 0;
+}		
+.benar-teo-section .container .bebar-two-prents .benar-two-head {
+	text-align: center;
+	padding: 115px 0;
+}				
+.benar-teo-section .container .bebar-two-prents .benar-two-head .benar-two-title h1{
+	font-size: 46px;
+	line-height: 52px;
+	font-family: 'Roboto Slab', serif;
+	font-weight: 700;
+	color: #ffffff;
+}	
+.benar-teo-section .container .bebar-two-prents .benar-two-head .benar-two-paragraph p{
+	font-size: 24px;
+	line-height: 30px;
+	font-family: 'Roboto Slab', serif;
+	font-weight: 400;
+	color: #ffffff;
+	padding-top: 10px;
+}
+.benar-teo-section .container .bebar-two-prents .benar-two-head .benar-two-btn a {
+	text-decoration: none;
+	font-size: 20px;
+	line-height: 26px;
+	font-family: 'Roboto Slab', serif;
+	font-weight: 700;
+	color: #ffffff;
+	padding: 15px 20px;
+	border: 2px solid;
+	color: #ffffff;
+	margin-top: 30px;
+	display: inline-block;
+}
+.benar-teo-section .container .bebar-two-prents .benar-two-head .benar-two-btn a:hover{
+	background-color: red;
+	color: #ffffff;
+}		
+	
+
+						/**** benar two section end *******/
+						
+						/**** blog section start *******/
+						
+						
+						
+.blog-section .container .blog-title {
+	text-align: center;
+	padding: 60px 0;
+}						
+.blog-section .container .blog-title p{
+	font-size: 36px;
+	line-height: 42px;
+	font-family: 'Roboto Slab', serif;
+	font-weight: 700;
+	position: relative;
+}
+.blog-section .container .blog-title p::before {
+    content: "";
+    height: 6px;
+    width: 80px;
+    background-color: red;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%);
+    bottom: -20px;
+}
+.blog-section .container .blog-prents {
+	display: flex;
+	column-gap: 4%;
+}
+.blog-section .container .blog-prents .blog-one,
+.blog-section .container .blog-prents .blog-two{
+	width: 48%;
+}
+.blog-section .container .blog-prents .blog-one .blog-image img,
+.blog-section .container .blog-prents .blog-two .blog-image img{
+	width: 100%;
+}
+.blog-section .container .blog-prents .blog-one .blog-image,
+.blog-section .container .blog-prents .blog-two .blog-image{
+	position: relative;
+	text-align: center;
+}
+.blog-section .container .blog-prents .blog-one .blog-image h2,
+.blog-section .container .blog-prents .blog-two .blog-image h2{
+	color: #ffffff;
+	padding: 23px;
+	background-color: #000000;
+	left: 30px;
+	bottom: 5px;
+	position: absolute;
+}
+.blog-section .container .blog-prents .blog-one .blog-icon ul,
+.blog-section .container .blog-prents .blog-two .blog-icon ul{
+	display: flex;
+	list-style-type: none;
+	margin: 10px 0;
+}
+.blog-section .container .blog-prents .blog-one .blog-icon ul li a, 
+.blog-section .container .blog-prents .blog-two .blog-icon ul li a {
+    padding: 5px 44px 0 0;
+    text-decoration: none;
+    font-size: 16px;
+    line-height: 22px;
+    font-weight: 400;
+	font-family: 'Open Sans', sans-serif;
+	color: #000000;
+}
+.blog-section .container .blog-prents .blog-one .blog-icon ul li a span,
+.blog-section .container .blog-prents .blog-two .blog-icon ul li a span {
+	color: red;
+	text-decoration: underline;
+}
+.blog-section .container .blog-prents .blog-one .blog-icon ul li a:hover, 
+.blog-section .container .blog-prents .blog-two .blog-icon ul li a:hover{
+	color: red;
+}
+.blog-section .container .blog-prents .blog-one .blog-icon ul li a i, 
+.blog-section .container .blog-prents .blog-two .blog-icon ul li a i{
+	color: #585858;
+}
+.blog-section .container .blog-prents .blog-one .blog-title-heading h3,
+.blog-section .container .blog-prents .blog-two .blog-title-heading h3{
+	font-size: 20px;
+	line-height: 26px;
+	font-family: 'Roboto Slab', serif;
+	font-weight: 700;
+	padding: 20px 0;
+}
+.blog-section .container .blog-prents .blog-one .blog-pra p,
+.blog-section .container .blog-prents .blog-two .blog-pra p{
+	font-size: 16px;
+	line-height: 22px;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 400;
+}
+.blog-section .container .blog-prents .blog-one .blog-btn a,
+.blog-section .container .blog-prents .blog-two .blog-btn a {
+	text-decoration: none;
+	font-size: 16px;
+	line-height: 22px;
+	font-family: 'Roboto Slab', serif;
+	font-weight: 400;
+	padding: 15px 23px;
+	border: 2px solid;
+	border-color: #000000;
+	margin-top: 30px;
+	display: inline-block;
+	margin-bottom: 125px;
+	color: #000000;
+}
+.blog-section .container .blog-prents .blog-one .blog-btn a:hover,
+.blog-section .container .blog-prents .blog-two .blog-btn a:hover{
+	background-color: red;
+	color: #ffffff;
+}
+
+
+
+
+				/**** blog section end *******/
+				
+	           /******* about section start ******/
+
+.about-section{
+	background-color:#282628;
+}
+.about-section .container .about-prents{
+	display: flex;
+	padding: 50px 0;
+	column-gap: 2%;
+}	
+.about-section .container .about-prents .about-one,	
+.about-section .container .about-prents .about-two,	
+.about-section .container .about-prents .about-three{
+	width: 32%;
+}		   			
+.about-section .container .about-prents .about-one .about-title h1,	
+.about-section .container .about-prents .about-two .about-title h1,	
+.about-section .container .about-prents .about-three .about-title h1{
+	color: #ffffff;
+	font-size: 24px;
+	line-height: 30px;
+	font-family: 'Roboto Slab', serif;
+	font-weight: 700;
+	padding: 10px 0;
+}
+.about-section .container .about-prents .about-one .about-paragrap p{
+	font-size: 16px;
+	line-height: 22px;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 400;
+	color: #9c9c9c;
+}
+.about-section .container .about-prents .about-one .about-paragrap p:hover{
+	color: #ffffff;
+}	
+.about-section .container .about-prents .about-one .about-icon ul{
+	display: flex;
+	margin-top: 35px;
+	list-style: none;
+}
+
+.about-section .container .about-prents .about-one .about-icon ul li a{
+		padding: 7px 12px;
+		color: #9c9c9c;
+		background-color: #000000;
+		margin-right: 9px;
+}			
+.about-section .container .about-prents .about-one .about-icon ul li a:hover{
+	background-color: #ffffff;
+	color: red;
+}
+.about-section .container .about-prents .about-two .about-form ul li{
+	list-style: none;
+}				
+.about-section .container .about-prents .about-two .about-form ul li {
+    font-size: 16px;
+    line-height: 22px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    color: #9c9c9c;
+	border-bottom: 2px dotted;
+    border-color: #ffffff;
+    padding: 7px 0;
+}
+.about-section .container .about-prents .about-two .about-form ul li:hover{
+	color: #ffffff;
+}
+.about-section .container .about-prents .about-three .about-para ul{
+	list-style: none;
+}
+.about-section .container .about-prents .about-three .about-para ul li a span{
+	margin-left: 30px;
+}
+.about-section .container .about-prents .about-three .about-para ul li a{
+	text-decoration: none;
+	font-size: 16px;
+	line-height: 22px;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 400;
+	color: #9c9c9c;
+}
+.about-section .container .about-prents .about-three .about-para ul li a:hover{
+	color: #ffffff;
+}
+.about-section .container .about-prents .about-three .about-para ul li a i{
+	color: #ffffff;
+	padding: 15px 5px;
+}
+
+
+
+			
+				
+				/**** foter section start *******/
+				
+.foter-section {
+	background-color: #000000;
+}
+.foter-section .container .foter-prents .foter-title p{
+	font-size: 16px;
+	line-height: 22px;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 400;
+	color: #ffffff;
+	text-align: center;
+	padding: 20px 0;
+}
+
+			/**** foter section start *******/
